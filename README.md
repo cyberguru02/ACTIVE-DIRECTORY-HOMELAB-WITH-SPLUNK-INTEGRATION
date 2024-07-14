@@ -340,7 +340,6 @@ We can also delve into the logs deeper and see what credentials and addresses an
 
 To test our defenses further, I installed Atomic Red Team on our Windows 10 machine. It lets us simulate different kinds of cyber-attacks. 
 
-​
 
 Run this command to bypass unknown scripts:
 
@@ -363,7 +362,6 @@ After the download is complete, Atomic Red Team will be available on the C: Driv
 ​![image](https://github.com/user-attachments/assets/c735fbbd-5583-423b-af2c-4eeef52a6808)
 
 
- **13 Generating Telemetry with Atomic Red Team**
 
 I went to check the contents of the “AtomicRedTeam” folder and saw sub folders of techniques based on the MITRE ATT&CK framework: 
 
@@ -371,10 +369,9 @@ I went to check the contents of the “AtomicRedTeam” folder and saw sub folde
 
  ![image](https://github.com/user-attachments/assets/8bd19962-0b5c-48b1-95b9-65d8cd49a3c2)
 
- 
+  **13 Generating Telemetry with Atomic Red Team**
+  
  I also simulated using PowerShell for an attack utilizing the sub-technique (T1136.001).
-
-​
 
  I initialized the technique by calling out the command
 
