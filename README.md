@@ -170,7 +170,7 @@ I then configured the domain controller with the name "mydfir.local" and then co
 ​​![image](https://github.com/user-attachments/assets/1df9da97-a117-496d-a0d1-8d55aa281489)
 
 
-04 Creating Departments and Users
+**04 Creating Departments and Users**
 
 On the Server Manager dashboard, I head over to the tools tab and select the “Active Directory Users and Computers”. This allows me to create separate groups called "IT" and "HR" in Active Directory and add a user to each group. It helps keep the management of users organized and secure.
 
